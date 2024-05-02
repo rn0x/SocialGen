@@ -1,0 +1,33 @@
+{
+  "name": "tts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon node index.js"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "/database/**",
+      "/output/**",
+      "/posts.json",
+      "/video/**"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs-extra": "^11.2.0",
+    "jsdom": "^24.0.0",
+    "node-fetch": "^3.3.2",
+    "node-html-to-image": "^4.0.0",
+    "nodemon": "^3.1.0",
+    "openai": "^4.38.5",
+    "rss-to-json": "^2.1.1"
+  }
+}
