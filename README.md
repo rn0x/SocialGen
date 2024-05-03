@@ -53,16 +53,31 @@ curl -X POST -H "Content-Type: application/json" -d '{"image": "https://example.
 يرجى استبدال روابط الملفات المؤقتة مع روابط واقعية للصور والصوت التي ترغب في استخدامها في التطبيق.
 
 
-امثلة للفيديوهات 
+### امثلة للفيديوهات 
 
-![video-1](./example/Amarok_____Open_Source_Music_Player_Officially_Released__Here_______s_What_______s_New.mp4)
-![video-2](./example/Amarok_____Released__Ported_to_Qt__KDE_Frameworks__.mp4)
-![video-3](./example/Extend_Ubuntu_LTS_Updates_for____Years_with_Free_Ubuntu_Pro.mp4)
-![video-4](./example/Handling__Cannot_refresh_snap_store__Error_in_Ubuntu______.mp4)
-![video-5](./example/How_to_Install_PHP_____in_RHEL__.mp4)
-![video-6](./example/Linux_Mint____Will_Include_Preinstalled_App_for_Matrix.mp4)
-![video-7](./example/Meet_DuckDuckGo_Privacy_Pro__a___in___subscription_service_with_VPN__Personal_Information_Removal__and_Identity_Theft_Restoration.mp4)
-![video-8](./example/The_biggest_use_cases_for_AI_in_Automotive__that_aren_______t_just_self_driving_cars_.mp4)
+[video-1](./example/Amarok_____Open_Source_Music_Player_Officially_Released__Here_______s_What_______s_New.mp4)
+[video-2](./example/Amarok_____Released__Ported_to_Qt__KDE_Frameworks__.mp4)
+[video-3](./example/Extend_Ubuntu_LTS_Updates_for____Years_with_Free_Ubuntu_Pro.mp4)
+[video-4](./example/Handling__Cannot_refresh_snap_store__Error_in_Ubuntu______.mp4)
+[video-5](./example/How_to_Install_PHP_____in_RHEL__.mp4)
+[video-6](./example/Linux_Mint____Will_Include_Preinstalled_App_for_Matrix.mp4)
+[video-7](./example/Meet_DuckDuckGo_Privacy_Pro__a___in___subscription_service_with_VPN__Personal_Information_Removal__and_Identity_Theft_Restoration.mp4)
+[video-8](./example/The_biggest_use_cases_for_AI_in_Automotive__that_aren_______t_just_self_driving_cars_.mp4)
+
+
+### امثلة للصور
+![imeag-1](./example/LHPFHYV3ATQ3B56T1G2Q.jpeg)
+![imeag-2](./example/ApplicationFrameHost_0hNMVXSvVu.png)
+
+
+### مثال للصوت
+
+عَنْ أَبِي هُرَيْرَة رَضِيَ اَللَّهُ عَنْهُ عَنْ رَسُولِ اَللَّهِ صَلَّى اَللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : كَلِمَتَانِ خَفِيفَتَانِ عَلَى اَللِّسَانِ ، ثَقِيلَتَانِ فِي اَلْمِيزَانِ ، حَبِيبَتَانِ إِلَى اَلرَّحْمَنِ : سُبْحَانَ اَللَّهِ وَبِحَمْدِهِ ، سُبْحَانَ اَللَّهِ اَلْعَظِيمِ
+
+![audio-1](./example/M77R3YN7J41K116C8CNC.mp3)
+
+
+
 
 ## الاعتمادات
 
